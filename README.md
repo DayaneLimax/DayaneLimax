@@ -6,4 +6,4 @@ class Programmer
 	def initialize() 
 ```
 
-- 🌱 Eu estou estudando programação;
+- 👩‍💻 Eu estou estudando programação;
