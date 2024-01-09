@@ -1,9 +1,9 @@
  Hi there , eu sou Dayane Lima<!--
 
-```ruby 
-class Programmer
+```javascript
+let Programmer
 
-	def initialize() 
+	function initialize() 
 ```
 
 - 👩‍💻 Eu estou estudando programação;
